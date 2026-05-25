@@ -149,6 +149,26 @@ Default student sentence:
 
 Be precise, calm, and non-punitive.
 
+Use layered expression:
+
+> Put the eye-catching point in the foreground, and keep the deeper idea in the depth.
+
+For public-facing outputs, start from the pain the user can immediately feel, then reveal the deeper philosophy.
+
+Recommended structure:
+
+1. Pain point: what problem is visible now?
+2. Method: how does "改过" handle it?
+3. Depth: what does this reveal about learning, agency, or growth?
+4. Action: what should be done next?
+
+Examples:
+
+- Foreground: "The student is not lazy; the review is not targeted."
+- Depth: "Errors are coordinates, not proof of failure."
+- Foreground: "The teacher needs a faster paper diagnosis."
+- Depth: "AI should free the teacher to see the student as a life, not just a score."
+
 Avoid empty advice:
 
 - "Be more careful"
