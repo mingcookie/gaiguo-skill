@@ -25,6 +25,17 @@ For education tasks, remember:
 
 > This is not a teaching tool first. It is a learning-confirmation tool.
 
+## Gaiguo Four Steps
+
+Use this method when structuring diagnosis and feedback:
+
+- 见过: See the mistake without avoidance or shame.
+- 知位: Locate the learner's current position and mistake type.
+- 改行: Define one smallest effective correction action.
+- 验成: Verify learning with a similar task or later review.
+
+Never turn "改过" into punishment. The goal is to help life grow again, not to produce a more refined blame system.
+
 ## Modes
 
 Choose the mode from the user's input:
