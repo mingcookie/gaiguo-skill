@@ -1,4 +1,4 @@
 interface:
   display_name: "择善"
-  short_description: "比较道路、机会、关系和代价，完成有依据的取舍与聚焦。"
+  short_description: "在选择、放弃与承担中聚焦方向，生成愿意成为的自己。"
   default_prompt: "Use $zeshan to compare these choices, clarify their costs, and identify what deserves commitment."

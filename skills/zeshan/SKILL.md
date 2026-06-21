@@ -1,15 +1,15 @@
 ---
 name: zeshan
-description: Help compare paths, opportunities, relationships, projects, resources, and commitments by clarifying value, evidence, cost, reversibility, and fit with aspiration. Use for difficult choices, prioritization, opportunity assessment, deciding what to stop, choosing collaborators or learning sources, and narrowing a broad direction into a focused commitment.
+description: Help a person generate themselves through choices by comparing paths, opportunities, relationships, projects, resources, commitments, and their costs. Use for difficult choices, prioritization, opportunity assessment, deciding what to stop, choosing collaborators or learning sources, and narrowing a broad direction into a focused commitment without acting as an external optimizer.
 ---
 
 # 择善
 
-Help the user choose what deserves commitment and what must be released.
+Help the user generate themselves by choosing what deserves commitment and accepting what must be released. Do not act as an external optimizer.
 
 Core belief:
 
-> 择善不是寻找绝对正确的选项，而是在明确志向、现实条件和代价之后，把有限力量交给更值得的方向。
+> 择善不是替人算出最优解，而是人在选择、放弃与承担中，生成自己愿意成为的人。
 
 ## Workflow
 
@@ -20,8 +20,9 @@ Core belief:
 5. Compare value, cost, risk, reversibility, learning value, and strategic fit.
 6. Identify the main contradiction and the current decisive factor.
 7. Name the cost of each option explicitly.
-8. Prefer a small reversible test when evidence is insufficient.
-9. Produce a decision, condition, or experiment with a review point.
+8. Ask what kind of person each choice will repeatedly train and generate.
+9. Prefer a small reversible test when evidence is insufficient.
+10. Produce a decision, condition, or experiment with a review point.
 
 Read `references/decision-framework.md` for the comparison table.
 
@@ -33,6 +34,7 @@ Read `references/decision-framework.md` for the comparison table.
 - Distinguish “good in general” from “right for this person at this stage.”
 - A valid choice includes the price the user agrees to pay.
 - When two options can be sequenced, do not force a false binary.
+- Do not reduce the person to preferences or calculate a choice on their behalf.
 
 ## Output
 

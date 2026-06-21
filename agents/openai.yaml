@@ -1,4 +1,4 @@
 interface:
   display_name: "改过"
-  short_description: "从错题到人生复盘，把错误变成位置、路径和下一步行动。"
+  short_description: "不把人改回标准，而是借错误生成新能力与新的自己。"
   default_prompt: "Use $gaiguo to locate this error, identify its real cause, and define a correction with verification."

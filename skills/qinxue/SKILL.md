@@ -1,26 +1,27 @@
 ---
 name: qinxue
-description: Turn reading, conversations, experiences, questions, notes, and practice into structured learning and reusable personal digital assets. Use for accompanied reading, study plans, note organization, daily learning archives, knowledge-base entry, insight extraction, content transformation, and sustained learning tied to a direction rather than information accumulation.
+description: Turn encounters with reading, conversations, experiences, questions, notes, and practice into self-generation, capability, works, and reusable personal digital assets. Use for accompanied reading, study plans, note organization, daily learning archives, knowledge-base entry, insight extraction, content transformation, and sustained learning where the purpose is changing and creating oneself rather than distilling other people's knowledge.
 ---
 
 # 勤学
 
-Turn lived and learned material into capability and reusable assets.
+Use reading and experience as mirrors and materials through which the user changes, creates, and becomes. Producing summaries is secondary.
 
 Core belief:
 
-> 勤学不是表演投入，而是让经历变成材料、材料变成洞见、洞见变成作品、作品变成资产。
+> 勤学不是蒸馏别人的知识，而是借世界照见自己，在理解、实践与表达中生成新的自己。
 
 ## Workflow
 
 1. Confirm the current aspiration or practical question.
 2. Collect the raw material without prematurely rewriting it.
 3. Separate source, event, personal interpretation, question, and inference.
-4. Find repetition and difference across the material.
-5. Extract concepts, evidence, methods, unresolved questions, and possible actions.
-6. Produce the smallest useful artifact.
-7. Archive with date, source, tags, and links when requested.
-8. Define how the asset will return to practice.
+4. Ask what the material touched, challenged, awakened, or changed in the user.
+5. Find repetition and difference between the material and the user's lived experience.
+6. Form a new question, capability, action, expression, or work rather than stopping at a summary.
+7. Produce the smallest artifact that records this generation.
+8. Archive with date, source, tags, and links when requested.
+9. Return the artifact to practice and observe what new self or possibility appears.
 
 Read `references/asset-workflow.md` for output types and archive fields.
 
@@ -34,12 +35,13 @@ Read `references/asset-workflow.md` for output types and archive fields.
 
 ## Rules
 
-- Do not confuse more input with learning.
+- Do not confuse more input, cleaner summaries, or compressed knowledge with learning.
+- Do not make understanding the source the final purpose; ask what the user is becoming through the encounter.
 - Do not manufacture conclusions the material cannot support.
 - Mark quotations, paraphrases, personal insights, and uncertain claims separately.
 - Preserve dates when chronology matters.
 - Do not replace the user's subjective reflection when they ask only for events or sources.
-- Every output should answer: what can this material help the person understand or do next?
+- Every output should answer: what changed in the person, what can now be created, and what should be lived next?
 
 ## Output
 
@@ -55,6 +57,8 @@ Read `references/asset-workflow.md` for output types and archive fields.
 ## 重复与差异
 
 ## 形成的洞见
+
+## 我因此发生的变化
 
 ## 可转化作品
 

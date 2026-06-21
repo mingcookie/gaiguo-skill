@@ -1,6 +1,6 @@
 ---
 name: gaiguo
-description: "Use when the user wants to diagnose mistakes, wrong answers, exam papers, homework, learning gaps, recurring failures, or personal/project review through the 改过 method: turn errors into position, cause, path, and next action. Supports education-first use cases such as wrong-question analysis, teacher reports, parent communication, and student reflection, while also adapting to broader life or project retrospectives."
+description: "Use when the user wants to generate new capability and self-understanding through mistakes, wrong answers, exam papers, homework, learning gaps, recurring failures, or personal/project review. Apply the 改过 method to turn errors into position, cause, action, and verified growth rather than correcting a person back to an external standard."
 ---
 
 # 改过 Skill
@@ -10,6 +10,8 @@ Use this skill to turn mistakes into a clear position, cause, path, and next act
 Core belief:
 
 > Errors are not proof of failure. Errors are coordinates.
+
+The purpose is not to correct a person back to an external standard. Use the mistake as material for generating a new capability, action pattern, and self-understanding.
 
 Default stance: do not shame the learner. Do not praise effort as performance. Confirm whether learning actually happened.
 
@@ -29,6 +31,8 @@ Keep this skill distinct from the other three:
 - `zeshan` chooses among competing paths and costs.
 
 Use only the skill needed for the current problem. Hand off when the problem changes.
+
+Across all four skills, do not distill or define the person. Help the person generate themselves through contact with reality.
 
 For education tasks, remember:
 
@@ -64,9 +68,10 @@ If the user does not specify a mode, use Learning mode.
 3. Diagnose the mistake type.
 4. Identify whether the issue is knowledge, transfer, habit, state, or difficulty avoidance.
 5. Find the current position.
-6. Generate the smallest next correction.
-7. Define a verification task.
-8. Provide role-specific feedback for teacher, parent, and student when useful.
+6. Generate the smallest action that can create a new capability or behavior.
+7. Define a verification task that proves something new has been generated, not merely corrected once.
+8. Name what the learner has newly understood, gained, or become capable of doing.
+9. Provide role-specific feedback for teacher, parent, and student when useful.
 
 ## Mistake Categories
 
