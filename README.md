@@ -29,6 +29,13 @@
 
 当前版本首先是一组可调用、可测试的概念原型，不是封闭终稿。它们需要在生命盘点、陪读学习、错题诊断、项目复盘和现实决策中接受检验。
 
+## 独立仓库
+
+- [立志 Skill](https://github.com/mingcookie/lizhi-skill)
+- [勤学 Skill](https://github.com/mingcookie/qinxue-skill)
+- [改过 Skill](https://github.com/mingcookie/gaiguo-skill)
+- [择善 Skill](https://github.com/mingcookie/zeshan-skill)
+
 ## 改过 Skill
 
 从错题到人生复盘，把错误变成位置、路径和下一步行动。
