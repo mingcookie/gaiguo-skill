@@ -1,0 +1,5 @@
+demo/.env
+demo/cases/
+demo/server.err.log
+demo/server.out.log
+demo/node_modules/

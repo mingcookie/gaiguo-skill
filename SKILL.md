@@ -1,6 +1,6 @@
 ---
 name: gaiguo
-description: Use when the user wants to diagnose mistakes, wrong answers, exam papers, homework, learning gaps, recurring failures, or personal/project review through the "改过" method: turn errors into position, cause, path, and next action. Supports education-first use cases such as wrong-question analysis, teacher reports, parent communication, and student reflection, while also adapting to broader life or project retrospectives.
+description: "Use when the user wants to diagnose mistakes, wrong answers, exam papers, homework, learning gaps, recurring failures, or personal/project review through the 改过 method: turn errors into position, cause, path, and next action. Supports education-first use cases such as wrong-question analysis, teacher reports, parent communication, and student reflection, while also adapting to broader life or project retrospectives."
 ---
 
 # 改过 Skill
@@ -20,6 +20,15 @@ Use the "起点-路径-终点" frame:
 - 起点: Where is the person now? What does the mistake reveal?
 - 路径: What is the smallest effective correction?
 - 终点: What would prove the error has truly been corrected?
+
+Keep this skill distinct from the other three:
+
+- `lizhi` confirms direction.
+- `qinxue` turns experience and study into capability and assets.
+- `gaiguo` corrects exposed mistakes and repeated deviations.
+- `zeshan` chooses among competing paths and costs.
+
+Use only the skill needed for the current problem. Hand off when the problem changes.
 
 For education tasks, remember:
 
@@ -173,3 +182,10 @@ Minimum useful inputs for education diagnosis:
 - Grade/subject if available
 
 If OCR, images, PDFs, or spreadsheets are involved, use available local tools to extract text first.
+
+## Handoff
+
+- Route loss of direction or identity confusion to `lizhi`.
+- Route a knowledge or evidence gap to `qinxue`.
+- Route a choice among multiple valid paths to `zeshan`.
+- Return the verified correction to `lizhi` when it changes the person's direction.

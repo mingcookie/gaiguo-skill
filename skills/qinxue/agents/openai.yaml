@@ -1,0 +1,4 @@
+interface:
+  display_name: "勤学"
+  short_description: "把阅读、经历、问题和实践整理为可复用的个人数字资产。"
+  default_prompt: "Use $qinxue to turn these raw notes and experiences into reusable learning assets."

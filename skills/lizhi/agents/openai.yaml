@@ -1,0 +1,4 @@
+interface:
+  display_name: "立志"
+  short_description: "用六大天问盘点生命资产，确认使命、方向与现实起点。"
+  default_prompt: "Use $lizhi to help me complete a grounded first-round life direction inventory."

@@ -1,3 +1,4 @@
-display_name: 改过
-short_description: 从错题到人生复盘，把错误变成位置、路径和下一步行动。
-default_prompt: 帮我用改过方法分析这个错误：先判断当前位置，再分析真实原因，最后给出下一步改过动作和验证方式。
+interface:
+  display_name: "改过"
+  short_description: "从错题到人生复盘，把错误变成位置、路径和下一步行动。"
+  default_prompt: "Use $gaiguo to locate this error, identify its real cause, and define a correction with verification."
